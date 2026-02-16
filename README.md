@@ -72,7 +72,6 @@ For each of the 7 languages, the following models were trained:
 
 * **mBERT**
 * **XLM-RoBERTa**
-* **XLM-RoBERTa**
 * **IndicBERT**
 
 ---
