@@ -1,0 +1,15 @@
+Tag,Precision,Recall,F1-score,Support
+Artifacts,0.6667,0.3077,0.4211,13
+Count,0.375,0.4286,0.4,7
+Day,0.5,0.5,0.5,2
+Entertainment,0.6154,0.6154,0.6154,13
+Facilities,0.5,1.0,0.6667,1
+Location,0.6923,0.72,0.7059,25
+Materials,0.5714,0.75,0.6486,16
+Money,1.0,1.0,1.0,2
+Organisms,0.7,0.6364,0.6667,11
+Organization,1.0,1.0,1.0,2
+Period,0.5,1.0,0.6667,2
+Person,0.8194,0.8939,0.8551,66
+
+TOTAL (micro),0.7083,0.7438,0.7256,-

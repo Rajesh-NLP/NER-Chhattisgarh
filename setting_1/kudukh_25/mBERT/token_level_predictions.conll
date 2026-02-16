@@ -1,0 +1,198 @@
+# sent_id = 0
+पू	O	O
+ंप	O	O
+नू	O	O
+ओन्टा	O	O
+तीनी	O	O
+उक्की	B-Organisms	O
+रहचा।	O	O
+
+# sent_id = 1
+पपड़ी	B-Organisms	B-Organisms
+सहेबस	O	B-Person
+तुरथेम	O	O
+मसलन	O	O
+बुज्झरस।	O	O
+
+# sent_id = 2
+पपड़ी	B-Organisms	B-Organisms
+खे	O	O
+़ड्डे	O	O
+ती	O	O
+लकड़ा	O	B-Organisms
+ही	O	O
+ख़द्दन	O	O
+डेगताचा।	O	O
+
+# sent_id = 3
+खर्रा	O	O
+-	O	O
+खर्री	O	O
+नू	O	O
+लकड़ा	B-Organisms	B-Organisms
+ही	O	O
+ख़द्द	O	O
+गरजारा	O	O
+अरा	O	O
+फिन	O	O
+मन्न	O	O
+ही	O	O
+ओ	O	O
+ंटे	O	O
+डाड़न	O	O
+धरचा।	O	O
+
+# sent_id = 4
+अउर	O	O
+ओ	O	O
+ंघोन	O	O
+फिन	O	O
+पपड़ी	B-Organisms	O
+ददास	O	O
+उछलाचस।	O	O
+
+# sent_id = 5
+ओन्टा	O	O
+रानी	O	O
+पोक	B-Organisms	B-Organisms
+रहचा।	O	O
+
+# sent_id = 6
+रानी	O	O
+पोक	B-Organisms	B-Organisms
+कले-कले	O	O
+मंज्जा	O	O
+केरा।	O	O
+
+# sent_id = 7
+पोक	B-Organisms	B-Organisms
+सो	O	O
+ंढ़हे	O	O
+ही	O	O
+भितरी	O	O
+कोरते	O	O
+केरा।	O	O
+
+# sent_id = 8
+बाचा	O	O
+,	O	O
+पोक	B-Organisms	B-Organisms
+रानी	O	O
+,	O	O
+‘‘पोक	B-Organisms	O
+रानी	O	O
+!	O	O
+
+# sent_id = 9
+रानी	O	O
+पोक	B-Organisms	B-Organisms
+सोच्चा	O	O
+,	O	O
+हथी	B-Organisms	B-Organisms
+गे	O	O
+अक्कुन	O	O
+मति	O	O
+बरच	O	O
+टोड़	O	O
+ंग	O	O
+नू	O	O
+ओ	O	O
+ंटे	O	O
+पकरी	O	B-Organisms
+ही	O	O
+मन्न	O	O
+रहचा।	O	O
+
+# sent_id = 10
+आ	O	O
+मन्न	O	O
+मइय्यां	O	O
+बग्गेम	O	O
+पेरवां	B-Organisms	B-Organisms
+र’आ	O	O
+लगिया।	O	O
+
+# sent_id = 11
+पेरवां	B-Organisms	B-Organisms
+मण्डी	O	O
+ही	O	O
+तलाश	O	O
+नू	O	O
+उढ़ियारा।	O	O
+
+# sent_id = 12
+पचगी	O	O
+पेरवां	B-Organisms	B-Organisms
+बाचा	O	O
+,	O	O
+‘‘अम्बा	O	O
+एलचा।	O	O
+
+# sent_id = 13
+पेरवां	B-Organisms	B-Organisms
+जल्लीती	O	O
+उरखा	O	O
+केरा।	O	O
+
+# sent_id = 14
+‘‘एन	O	B-Organisms
+निग्ंगन	O	O
+केगर’ओन’’	O	O
+ओसगा	B-Organisms	B-Organisms
+बाचा।	O	O
+
+# sent_id = 15
+ओसगा	B-Organisms	B-Organisms
+पिन्सुल	B-Artifacts	B-Artifacts
+हो’अर	O	O
+की	O	O
+अदिन	O	O
+कल्थाच	O	O
+कल्थाच	O	O
+एरा	O	O
+हेल्लरा।	O	O
+
+# sent_id = 16
+‘एन	O	B-Organisms
+निग्ंगन	O	O
+केगर’ओन’’	O	O
+ओसगा	B-Organisms	B-Organisms
+बाचा।	O	O
+
+# sent_id = 17
+ऋचा	B-Person	O
+अरा	O	O
+रजनीश	B-Person	B-Person
+छुट्टी	O	O
+उल्ला	O	O
+नू	O	O
+बस्तर	O	O
+कुद्दागे	O	O
+बरचर।	O	O
+
+# sent_id = 18
+नरेन्दरस	B-Person	B-Person
+टिंडी	O	O
+एदस।	O	O
+
+# sent_id = 19
+आस	O	O
+इज्जस	O	O
+केरस।	O	O
+आसही	O	O
+इजतेम	O	O
+बन्दरा	B-Organisms	B-Organisms
+हू	O	O
+ं	O	O
+इज्जा	O	O
+केरा।	O	O
+
+# sent_id = 20
+नरेन्द्ररस	B-Person	B-Person
+तंग्है	O	O
+झोलन	O	O
+चोदस	O	O
+अरा	O	O
+लव’आगे	O	O
+खेच्चस।	O	O
+

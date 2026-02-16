@@ -1,0 +1,873 @@
+# sent_id = 0
+अयो	O	O
+,	O	O
+नना	O	O
+कोन	O	O
+चीं	O	O
+-चीं	O	O
+इंजो	O	O
+केंता	O	O
+नोना	O	O
+उप्पे	B-Organisms	B-Organisms
+केत्ता	O	O
+।	O	O
+
+# sent_id = 1
+फूटबाल।	B-Entertainment	B-Organisms
+
+# sent_id = 2
+ऐड़ज	B-Organisms	B-Organisms
+उब्बाय	O	O
+समझेम	O	O
+अत्ता।	O	O
+
+# sent_id = 3
+डुवाल	B-Organisms	B-Organisms
+ता	O	O
+पिल्लान	O	O
+काल	O	O
+दे	O	O
+विगता।	O	O
+
+# sent_id = 4
+अरे	O	O
+इद	O	O
+बाता	O	O
+डुवाल	B-Organisms	B-Organisms
+पिल्ला	O	O
+वेण्डे	O	O
+पोर्रो	O	O
+ऐस्सालय	O	O
+केता	O	O
+रोइता।	O	O
+
+# sent_id = 5
+ओण्ड	O	O
+तावा	O	O
+वेण्डे	O	O
+ऐड़ज	B-Organisms	B-Organisms
+दादाल	O	O
+पोर्रो	O	O
+ऐस्सा।	O	O
+
+# sent_id = 6
+जाले	O	O
+ऐड़ज	B-Organisms	B-Organisms
+अवयी	O	O
+मंज	O	O
+किच्चा	O	O
+आस	O	O
+मत्ता।	O	O
+
+# sent_id = 7
+इदाते	O	O
+डुवाल	B-Organisms	B-Organisms
+पिल्ला	O	O
+नेल	O	O
+अड़ता	O	O
+कोर	O	O
+वेण्ड	O	O
+उरंगता	O	O
+।	O	O
+
+# sent_id = 8
+ऐनी	B-Organisms	B-Organisms
+आपेत	O	O
+आया	O	O
+रोईता।	O	O
+
+# sent_id = 9
+ऐन	B-Organisms	O
+कुड़िता।	O	B-Organisms
+
+# sent_id = 10
+ऐन	B-Organisms	B-Organisms
+दादा।	O	O
+
+# sent_id = 11
+पाड़ेवा	B-Organisms	B-Organisms
+पैयाल	O	O
+अपून	O	O
+साड़ो	O	O
+मेहकालाय	O	O
+पारिसो	O	O
+मंता।	O	O
+
+# sent_id = 12
+सुडुन	O	O
+ऐड़ाय	O	O
+अंज	O	O
+ओण्ड	O	O
+सुडिला	O	O
+पाड़ेवा	B-Organisms	B-Organisms
+के	O	O
+ता	O	O
+उड़ाट	O	O
+आह	O	O
+उड़ाटा।	O	O
+
+# sent_id = 13
+अचूटे	O	O
+ओण्ड	O	O
+मुसेल	O	O
+(	O	O
+मुयतोर	O	O
+)	O	O
+परेवा	B-Organisms	B-Organisms
+केता	O	O
+,	O	O
+कोठटो	O	O
+कोठटो।	O	O
+
+# sent_id = 14
+अचूट	O	O
+ओण्ड	O	O
+पाड़ेवा	B-Organisms	B-Organisms
+केईता-	O	O
+ओ	O	O
+उड़ाट।	O	O
+
+# sent_id = 15
+उप्पे	B-Organisms	B-Organisms
+वेरइ	O	O
+मज	O	O
+केयता	O	O
+अरे	O	O
+,	O	O
+बाबो	O	O
+इद	O	O
+निजाम	O	O
+बिलेय	O	O
+वैया।	O	O
+
+# sent_id = 16
+मामन	O	O
+उदानाद	O	O
+खोली	O	O
+तग	O	O
+चितराकूट	B-Location	B-Location
+घूमेर	O	B-Location
+ता	O	O
+ओन्ड	O	O
+बिड़ियाद	O	O
+छापा	O	O
+वेड़िस	O	O
+मनूर।	O	O
+
+# sent_id = 17
+कि	O	O
+ओन्ड़	O	O
+कोवे	B-Organisms	B-Organisms
+ओन	O	O
+पेरखे	O	O
+वत्ता।	O	O
+
+# sent_id = 18
+ओर	O	O
+नरेन्द्रदीन	B-Person	B-Person
+मिराय	O	O
+पेय	O	O
+पोय	O	O
+तोर	O	O
+आड़	O	O
+बाढ़	O	O
+मिररीती	O	O
+इन्जो	O	O
+केततोर।	O	O
+
+# sent_id = 19
+नरेन्द्र	B-Person	B-Person
+दीन	O	O
+अपुन	O	O
+वायनाद	O	O
+उड़ी	O	O
+कोवे	O	B-Organisms
+मिरता।	O	O
+
+# sent_id = 20
+तुमेली	B-Organisms	O
+'अरे	O	O
+वा	O	O
+कुम्हारिन	O	B-Location
+कीरा	B-Organisms	O
+आय।	O	O
+
+# sent_id = 21
+महादेव	B-Person	B-Person
+बड़	O	O
+दादर	O	O
+मा	O	O
+घर	O	O
+बनाए	O	O
+ला	O	O
+चल	O	O
+दईस।	O	O
+
+# sent_id = 22
+नत्यु	B-Person	O
+उनय	O	O
+जत्थु	B-Person	B-Person
+ला	O	O
+अपन	O	O
+खांधा	O	O
+मा	O	O
+बहिस।	O	O
+
+# sent_id = 23
+जत्थु	B-Person	B-Person
+ला	O	O
+हंऊंस	O	O
+आय	O	O
+गईस।	O	O
+
+# sent_id = 24
+सेम्हर	B-Plants	B-Person
+के	O	O
+तरि	O	O
+तीनों	O	O
+संगी	O	O
+मजा	O	O
+से	O	O
+खेलत	O	O
+रहंय	O	O
+।	O	O
+
+# sent_id = 25
+मूसा	B-Organisms	B-Organisms
+कलिस	O	O
+मय	O	O
+घर	O	O
+जायूँ।	O	O
+
+# sent_id = 26
+सेम्हर-	B-Plants	B-Person
+'मैं	O	O
+केखर	O	O
+संग	O	O
+मा	O	O
+खेलहूं।	O	O
+'	O	O
+
+# sent_id = 27
+टटका	B-Organisms	B-Organisms
+'मूसा	B-Organisms	O
+ला	O	O
+मरेला	O	O
+रहय	O	O
+मर	O	O
+गय।	O	O
+
+# sent_id = 28
+सेम्हर	B-Plants	B-Organisms
+अर	O	O
+मंजूर	B-Organisms	B-Organisms
+अच्छा	O	O
+!	O	O
+
+# sent_id = 29
+टटका	B-Organisms	B-Organisms
+'मोला	O	O
+छोड़	O	O
+दव।	O	O
+
+# sent_id = 30
+वा	O	O
+बकली	B-Organisms	B-Organisms
+ला	O	O
+बोइर	O	O
+के	O	O
+झाड़ी	O	O
+तीर	O	O
+लय	O	O
+गइस।	O	O
+
+# sent_id = 31
+ओखर	O	O
+लरका	O	O
+बुधारू	B-Organisms	B-Person
+बेझा	O	O
+अलाल	O	O
+रहय।	O	O
+
+# sent_id = 32
+बुधारू	B-Person	B-Person
+आराम	O	O
+से	O	O
+सोय	O	O
+के	O	O
+उठय।	O	O
+
+# sent_id = 33
+बुधारू	B-Person	B-Person
+अपन	O	O
+संधिन	O	O
+संग	O	O
+खेलत	O	O
+रथय।	O	O
+
+# sent_id = 34
+सप्फा	O	B-Organisms
+जिवाद	O	O
+मिलके	O	O
+लड़िया	B-Organisms	B-Organisms
+ला	O	O
+सुधारेला	O	O
+सोचिन।	O	O
+
+# sent_id = 35
+लड़िया	B-Organisms	B-Organisms
+ला	O	O
+सजा	O	O
+मिल	O	O
+गईस।	O	O
+
+# sent_id = 36
+बंदरा	B-Organisms	B-Organisms
+सनार	O	O
+के	O	O
+दुकान	O	O
+मा	O	O
+गईस।	O	O
+
+# sent_id = 37
+बंदरा	B-Organisms	B-Organisms
+लुगरा	O	O
+के	O	O
+दुकान	O	O
+मा	O	O
+गईस।	O	O
+
+# sent_id = 38
+एक	O	O
+मूसा	B-Organisms	B-Organisms
+देश	O	O
+रहय	O	O
+ओमा	O	O
+राजा	O	O
+मूसा	B-Organisms	B-Organisms
+अर	O	O
+रानी	O	O
+मुसाइन	B-Organisms	B-Organisms
+रहथ	O	O
+रहय।	O	O
+
+# sent_id = 39
+अन	O	O
+के	O	O
+बैरी	O	O
+,	O	O
+धरती	O	O
+के	O	O
+बोझा	O	O
+झर्री	B-Person	O
+के	O	O
+दुई	O	O
+बेटा	O	O
+रहंय-सुकलाल	B-Person	O
+अर	O	O
+तितरा।	B-Person	O
+
+# sent_id = 40
+'	O	O
+सुकलाल-मैं	O	B-Person
+जादा	O	O
+भुरठा	B-Materials	B-Materials
+टोर	O	O
+लेथू।	O	O
+
+# sent_id = 41
+रीछवा	B-Organisms	B-Organisms
+भग	O	O
+गइस।	O	O
+
+# sent_id = 42
+तफेर	O	O
+पन्ना	O	O
+ले	O	O
+बकली	B-Organisms	B-Organisms
+बाहर	O	O
+आईस	O	O
+अर	O	O
+मय	O	O
+लानो	O	O
+कहिस।	O	O
+
+# sent_id = 43
+बकली	B-Organisms	B-Organisms
+कहिस-	O	O
+'मोर	O	O
+पंखन	O	O
+ला	O	O
+बनाय	O	O
+दे।	O	O
+'	O	O
+
+# sent_id = 44
+बाला	B-Person	B-Person
+फोटू	O	O
+ला	O	O
+पूरो	O	O
+कर	O	O
+दईस	O	O
+अर	O	O
+अपन	O	O
+दोस	O	O
+ला	O	O
+उड़वाय	O	O
+दईस।	O	O
+
+# sent_id = 45
+लड़िया	B-Organisms	B-Organisms
+बघवा	B-Organisms	B-Organisms
+के	O	O
+उप्पर	O	O
+सुखायहरा	O	O
+घांस	O	O
+ला	O	O
+ढांकन	O	O
+लगिस।	O	O
+
+# sent_id = 46
+लड़िया	B-Organisms	B-Organisms
+रोवन	O	O
+लगिस।	O	O
+
+# sent_id = 47
+-DOCSTART-	O	O
+ओण्ड	O	O
+नय	O	O
+पिल्लऽ	B-Organisms	B-Organisms
+कटूल	O	O
+तग	O	O
+अड्डीन	O	O
+गुड़िसो	O	O
+मत्तऽ।	O	O
+
+# sent_id = 48
+नय	O	O
+पिल्लऽ	B-Organisms	B-Organisms
+उबाय	O	O
+तेदी	O	O
+उदतऽ	O	O
+।	O	O
+
+# sent_id = 49
+अय्यो	O	O
+नन	O	O
+कोन	O	O
+चीं-चीं	O	O
+केत्ता	O	O
+नोना	O	O
+-	O	O
+उप्पे	B-Organisms	B-Organisms
+केत्तऽ।	O	O
+
+# sent_id = 50
+एर्वद्ऽ	O	O
+उटूल	O	O
+ओण्ड	O	O
+पन्डे	B-Organisms	O
+उद्दी	O	O
+मन्नूर।	O	O
+
+# sent_id = 51
+नय	O	O
+पिल्लाऽ	B-Organisms	B-Organisms
+पण्डेत	B-Organisms	B-Organisms
+पूछऽ	O	O
+कित्ता-बाले	O	O
+निम	O	O
+केत्ती	O	O
+म्योंग	O	O
+?	O	O
+’’	O	O
+‘‘नन	O	O
+कोन	O	O
+टर्र-टर्र	O	O
+केत्ता	O	O
+नोना।’’	O	O
+
+# sent_id = 52
+फुटबाॅल।	B-Entertainment	B-Organisms
+
+# sent_id = 53
+पेत्ते	B-Organisms	B-Organisms
+किन	O	O
+काल	O	O
+दे	O	O
+नोहकनूर।	O	O
+
+# sent_id = 54
+एन	B-Organisms	B-Organisms
+केत्तऽ	O	O
+-	O	O
+कोट्टो	O	O
+मन्न्	O	O
+चुडुला	O	O
+जीवा	O	O
+ओण्ड	O	O
+बित्ता	O	O
+ता	O	O
+माटा।	O	O
+
+# sent_id = 55
+रानी	O	O
+पेत्ते	B-Organisms	B-Organisms
+बिचार	O	O
+कित्ता	O	O
+,	O	O
+‘‘एन	B-Organisms	O
+तुन	O	O
+इन्जे	O	O
+ंबुद्द	O	O
+वत्ता।’’	O	O
+
+# sent_id = 56
+ऐन	B-Organisms	O
+सोंडा	O	O
+तुन	O	O
+तेहस	O	O
+ओ	O	O
+इन्जो	O	O
+केत्ता।	O	O
+
+# sent_id = 57
+चुडूर	O	O
+दुराम	O	O
+पारियता	O	O
+पेरके	O	O
+ओण्ड	O	O
+चुडला	O	O
+पराल	B-Organisms	B-Organisms
+बोडे	O	O
+केत्ता	O	O
+,	O	O
+‘‘उड़ा	O	O
+,	O	O
+आ	O	O
+उड़ाट।	O	O
+
+# sent_id = 58
+अचवड़देन	O	O
+डफड़ा	B-Artifacts	O
+सिहना	B-Artifacts	B-Location
+अवुर	O	O
+मोहरी	B-Artifacts	B-Location
+,	O	O
+डोल	O	O
+नेकता।	O	O
+
+# sent_id = 59
+गुड़ऽ	B-Materials	B-Organisms
+कर्रा	O	O
+तुन	O	O
+गोंदाकीस	O	O
+जमय	O	O
+गुड़ऽ	B-Materials	B-Organisms
+कर्रा	O	O
+किन	O	O
+ऊकतोर।	O	O
+
+# sent_id = 60
+चैतु	B-Person	B-Person
+मल	O	O
+,	O	O
+मंगल	B-Person	B-Person
+कार	O	O
+गाड़ी	O	O
+अवुर	O	O
+समारु	B-Person	B-Person
+ओण्ड	O	O
+बिड़िया	O	O
+बोल	O	O
+अस्तोर।	O	O
+
+# sent_id = 61
+अवुर	O	O
+उप्पे	B-Organisms	B-Organisms
+पे	B-Artifacts	B-Artifacts
+ंसिल	I-Artifacts	I-Artifacts
+तुन	O	O
+कोर्रकनिन	O	O
+पोयपीकितऽ।	O	O
+
+# sent_id = 62
+चितरकोट	B-Location	B-Location
+त	O	O
+सोबात्क	O	O
+उमकेड़	O	O
+बेच्चाना	O	O
+वेंडे	O	O
+मार्रंगा	O	O
+पर्रवूर।	O	O
+
+# sent_id = 63
+नरेन्द्र	B-Person	B-Person
+लाव	O	O
+तोहत्तोर	O	O
+।	O	O
+
+# sent_id = 64
+नरेन्द्रिन	B-Person	B-Person
+तन्ना	O	O
+वायनेद	O	O
+उड़ी	O	O
+कोवे	O	B-Organisms
+मिर्रतऽ	O	O
+।	O	O
+
+# sent_id = 65
+आ	O	O
+मंजू	B-Person	B-Person
+ना	O	O
+लायो	O	O
+ना	O	O
+कुर्ता	B-Artifacts	O
+आड	O	O
+टोपी	O	O
+पाडता।	O	O
+
+# sent_id = 66
+नई	O	O
+पिल्ला	B-Organisms	B-Organisms
+पुछा	O	O
+किता-निमा	O	O
+म्याऊ	O	O
+इंजो	O	O
+केत्ती।	O	O
+
+# sent_id = 67
+नई	O	O
+पिल्ला	B-Organisms	B-Organisms
+तान	O	O
+पुछा	O	O
+कित्ता-	O	O
+बालेरा	O	O
+निमा	O	O
+केती	O	O
+म्याऊँ	O	O
+?	O	O
+
+# sent_id = 68
+तरीइ	O	O
+उटूल	O	O
+ओण्ड	O	O
+पण्डे	B-Organisms	B-Person
+उददी	O	O
+मत्ता।	O	O
+
+# sent_id = 69
+डुवाल	B-Organisms	B-Organisms
+ता	O	O
+पिल्लान	B-Organisms	O
+काल	O	O
+दे	O	O
+विगता।	O	O
+
+# sent_id = 70
+जाले	O	O
+ऐड़ज	B-Organisms	B-Organisms
+अवयी	O	O
+मंज	O	O
+किच्चा	O	O
+आस	O	O
+मत्ता।	O	O
+
+# sent_id = 71
+माव	O	O
+किन	O	O
+संग	O	O
+वेण्डे	O	O
+नाह	O	O
+सान	O	O
+ले	O	O
+तुरसान	B-Organisms	O
+ले	O	O
+किनूर।	O	O
+
+# sent_id = 72
+अचूट	O	O
+ओण्ड	O	O
+पाड़ेवा	B-Organisms	B-Organisms
+केईता-	O	O
+ओ	O	O
+उड़ाट।	O	O
+
+# sent_id = 73
+मुसेल	O	O
+पाडे़वा	B-Organisms	B-Organisms
+केतोर	O	O
+मिड़	O	O
+आलासमाट।	O	O
+
+# sent_id = 74
+जाल	O	O
+सुडून	O	O
+पोर्रो	O	O
+तेदाम	O	O
+पाड़ेवा	B-Organisms	B-Organisms
+अवूर	O	O
+लाव	O	O
+कित्ता।	O	O
+
+# sent_id = 75
+मूसेल	O	O
+बुढा	O	O
+पाड़ेवा	B-Organisms	B-Organisms
+अवी	O	O
+कीन	O	O
+पोईस	O	O
+ने	O	O
+काय	O	O
+ऐड़ाय	O	O
+पारित्ता।	O	O
+
+# sent_id = 76
+नेड	O	O
+नारदे	O	O
+करसाड़	B-Entertainment	B-Entertainment
+मण्ड़ी	O	O
+आयमूता।	O	O
+
+# sent_id = 77
+कोपा	B-Person	B-Person
+मनेय	O	O
+तान	O	O
+नार	O	O
+दीना	O	O
+परगन	O	O
+मण्ड़ी	O	O
+तग	O	O
+तच	O	O
+मनूड़।	O	O
+
+# sent_id = 78
+उप्पे	B-Organisms	B-Organisms
+तान	O	O
+पोइस	O	O
+मंज	O	O
+मिड़िस	O	O
+मिड़िस	O	O
+उड़	O	O
+सोमता।	O	O
+
+# sent_id = 79
+नना	O	O
+निइकी	O	O
+कोरका	O	O
+नोना	O	O
+,	O	O
+उप्पे	B-Organisms	B-Organisms
+केत्ता	O	O
+नाक	O	O
+ना	O	O
+फलकीन	O	O
+।	O	O
+
+# sent_id = 80
+नाक	O	O
+नोय	O	O
+रोयता	O	O
+निम	O	O
+नाकी	O	O
+माडेगता	O	O
+छापा	O	O
+पाड़ा	O	O
+लय	O	O
+इम	O	O
+अल्ला	O	O
+,	O	O
+पेरके	O	O
+निम	O	O
+बातय	O	O
+किनो	O	O
+जाले	O	O
+किम	O	O
+नेलय	O	O
+,	O	O
+उप्पे	B-Organisms	B-Organisms
+केत्ता	O	O
+निम्मा	O	O
+छापा	O	O
+पाड़ा	O	O
+पेरके	O	O
+नना	O	O
+निकीन	O	O
+कची	O	O
+कची	O	O
+गोन्दा	O	O
+किनोना।	O	O
+
+# sent_id = 81
+रजनीश	B-Person	B-Person
+मामन	O	O
+पूछाकितोर।	O	O
+
+# sent_id = 82
+कि	O	O
+ओन्ड़	O	O
+कोवे	B-Organisms	B-Organisms
+ओन	O	O
+पेरख	O	O
+ेवत्ता।	O	O
+
+# sent_id = 83
+कोवेत	B-Organisms	B-Organisms
+पेरखे	O	O
+वायनद	O	O
+उँड़ी	O	O
+मँज	O	O
+जोर	O	O
+दे	O	O
+ताक	O	O
+तोर।	O	O
+
+# sent_id = 84
+नरेन्द्र	B-Person	B-Person
+केततोर	O	O
+बाले	O	O
+वेय	O	O
+किनाद	O	O
+कोवे	B-Organisms	B-Organisms
+पेरखे	O	O
+मेन्दे	O	O
+।	O	O
+
+# sent_id = 85
+ओर	O	O
+पेकल	O	O
+मूने	O	O
+आँज	O	O
+दुनिया	O	O
+ते	O	O
+स्वामी	B-Person	B-Person
+विवेकानंद	I-Person	B-Person
+पेदेड़	O	O
+ते	O	O
+दाखा	O	O
+अत्ता।	O	O
+
+# sent_id = 86
+तान	O	O
+हूड़ला	O	O
+छत्तीसगढ़	B-Location	B-Person
+राजतोर	O	O
+कोटुह.कोटुहनोर	O	O
+मानेय	O	O
+वसुत	O	O
+बच्चो	O	O
+अन	O	O
+बच्चो	O	O
+मानेय	O	O
+वायतोर।	O	O
+
+# sent_id = 87
+कांयकेर	B-Location	B-Location
+बस्तेर	B-Location	O
+ता	O	O
+नामजागी	O	O
+कच	O	O
+कलदा	O	O
+मट्टा	O	O
+आन्द।	O	O
+

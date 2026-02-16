@@ -1,0 +1,10 @@
+Tag,Precision,Recall,F1-score,Support
+Artifacts,0.0,0.0,0.0,7
+Count,0.0,0.0,0.0,0
+Location,0.0,0.0,0.0,1
+Materials,0.6,0.6,0.6,10
+Organisms,0.8065,0.9036,0.8523,83
+Period,0.5,1.0,0.6667,1
+Person,0.8621,0.8333,0.8475,30
+
+TOTAL (micro),0.7926,0.8106,0.8015,-
